@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PayPayAutoPriceDown</string>
+
+    <string name="accessibility_service_description">
+       PayPayの商品価格を自動で値下げする補助サービス
+    </string>
+</resources>
